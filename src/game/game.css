@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+canvas {
+    background-image: url("pics/space.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#score-board {
+    margin-top: 2em;
+    font-size: large;
+}
+
+#restarter {
+    margin-top: 2em;
+    padding: 2em;
+}
+
+#game {
+    text-align: center;
+}
